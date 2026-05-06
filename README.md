@@ -90,11 +90,6 @@ No installation needed! Just:
 - 📧 Email: jenny@example.com
 - 💼 LinkedIn: [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
 - 🐙 GitHub: [github.com/Akshta31](https://github.com/Akshta31)
-
----
-
-## 📄 Licens
-
 ---
 
 ⭐ If you like this portfolio, consider giving the repo a star!
