@@ -1,8 +1,8 @@
-# 🚀 Jenny | Full Stack Developer Portfolio
+# 🚀 Akshta | Full Stack Developer Portfolio
 
 A modern, responsive personal portfolio website built with HTML, CSS, and JavaScript. Features a clean design with light/dark mode, smooth animations, and mobile-friendly layout.
 
-🌐 **Live Site:** [https://akshta31.github.io](https://akshta31.github.io)
+🌐 **Live Site:** [https://akshta31.github.io](https://akshta31.github.io/My-Portfolio/)
 
 ---
 
