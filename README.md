@@ -47,7 +47,7 @@ portfolio/
 
 - **Frontend:** HTML5, CSS3, Vanilla JavaScript
 - **Icons:** Font Awesome 6
-- **Fonts:** Syne + DM Sans 
+- **Fonts:** Syne + DM Sans(Google Fonts)
 - **Hosting:** GitHub Pages
 
 ---
