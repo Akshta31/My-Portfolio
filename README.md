@@ -54,7 +54,7 @@ portfolio/
 
 ##  Projects Featured
 
-### 💬 Nexify — Real-time Chat Application
+###  Nexify — Real-time Chat Application
 A full-featured real-time chat app with private & group messaging, online status, and read receipts.
 - **Stack:** React.js, Node.js, Socket.io, MongoDB, Express
 - 🔗 [GitHub](https://github.com/Akshta31/Nexify-Real-Time-Chat-Application)
