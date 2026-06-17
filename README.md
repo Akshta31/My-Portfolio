@@ -16,7 +16,7 @@ A modern, responsive personal portfolio website built with HTML, CSS, and JavaSc
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 portfolio/
