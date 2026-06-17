@@ -52,7 +52,7 @@ portfolio/
 
 ---
 
-## 💼 Projects Featured
+##  Projects Featured
 
 ### 💬 Nexify — Real-time Chat Application
 A full-featured real-time chat app with private & group messaging, online status, and read receipts.
