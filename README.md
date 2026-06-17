@@ -43,7 +43,7 @@ portfolio/
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend:** HTML5, CSS3, Vanilla JavaScript
 - **Icons:** Font Awesome 6
