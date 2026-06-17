@@ -63,7 +63,7 @@ A full-featured real-time chat app with private & group messaging, online status
 Real-time collaborative document editor with live cursors and auto-save.
 - **Stack:** React.js, Quill.js, Socket.io, MongoDB, Node.js
 
-### 🎯 FocusTrack — Productivity Browser Extension
+###  FocusTrack — Productivity Browser Extension
 Chrome extension for blocking distracting sites and tracking productivity.
 - **Stack:** JavaScript, Chrome APIs, HTML/CSS
 
