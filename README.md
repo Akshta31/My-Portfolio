@@ -31,7 +31,7 @@ portfolio/
 
 ---
 
-## 🗂️ Sections
+##  Sections
 
 | Section | Description |
 |---|---|
