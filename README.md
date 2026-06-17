@@ -8,11 +8,11 @@ A modern, responsive personal portfolio website built with HTML, CSS, and JavaSc
 
 ##  Features
 
-- 🌙 Light / Dark mode toggle (saves preference)
-- 📱 Fully responsive — works on mobile, tablet, and desktop
-- 🎨 Smooth scroll animations
-- ⚡ Fast loading — pure HTML/CSS/JS, no frameworks
-- 📬 Contact form with success feedback
+-  Light / Dark mode toggle (saves preference)
+-  Fully responsive — works on mobile, tablet, and desktop
+-  Smooth scroll animations
+-  Fast loading — pure HTML/CSS/JS, no frameworks
+-  Contact form with success feedback
 
 ---
 
