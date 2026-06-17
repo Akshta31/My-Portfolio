@@ -59,7 +59,7 @@ A full-featured real-time chat app with private & group messaging, online status
 - **Stack:** React.js, Node.js, Socket.io, MongoDB, Express
 - 🔗 [GitHub](https://github.com/Akshta31/Nexify-Real-Time-Chat-Application)
 
-### 📝 Doclify — Collaborative Document Editor
+###  Doclify — Collaborative Document Editor
 Real-time collaborative document editor with live cursors and auto-save.
 - **Stack:** React.js, Quill.js, Socket.io, MongoDB, Node.js
 
