@@ -6,7 +6,7 @@ A modern, responsive personal portfolio website built with HTML, CSS, and JavaSc
 
 ---
 
-## ✨ Features
+##  Features
 
 - 🌙 Light / Dark mode toggle (saves preference)
 - 📱 Fully responsive — works on mobile, tablet, and desktop
