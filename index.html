@@ -258,13 +258,13 @@
       position: relative;
     }
     .avatar-ring {
-      width: clamp(280px, 35vw, 420px);
-      height: clamp(280px, 35vw, 420px);
-      border-radius: 50%;
-      background: conic-gradient(var(--accent) 0deg, var(--accent2) 90deg, transparent 90deg);
-      display: flex; align-items: center; justify-content: center;
-      padding: 4px;
-      animation: spin-slow 20s linear infinite;
+     position: relative;
+    width: clamp(280px, 35vw, 420px);
+    height: clamp(280px, 35vw, 420px);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     }
     @keyframes spin-slow { to { transform: rotate(360deg); } }
     .avatar-inner {
