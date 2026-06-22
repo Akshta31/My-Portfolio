@@ -67,7 +67,7 @@ Real-time collaborative document editor with live cursors and auto-save.
 Chrome extension for blocking distracting sites and tracking productivity.
 - **Stack:** JavaScript, Chrome APIs, HTML/CSS
 
-### 🧠 Mental Health Support Website
+###  Mental Health Support Website
 A platform for mental health resources, mood tracking, and peer support.
 - **Stack:** React.js, Node.js, MongoDB, Express
 
