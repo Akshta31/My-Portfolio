@@ -91,4 +91,4 @@ No installation needed! Just:
 - 🐙 GitHub: [github.com/Akshta31](https://github.com/Akshta31)
 ---
 
-⭐ So This is My Portfolio!
+ So This is My Portfolio!
