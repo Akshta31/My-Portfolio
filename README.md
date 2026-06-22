@@ -88,7 +88,7 @@ No installation needed! Just:
 
 - 📧 Email: jenny@example.com
 - 💼 LinkedIn: [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
-- 🐙 GitHub: [github.com/Akshta31](https://github.com/Akshta31)
+- GitHub: [github.com/Akshta31](https://github.com/Akshta31)
 ---
 
  So This is My Portfolio!
