@@ -72,7 +72,7 @@ A platform for mental health resources, mood tracking, and peer support.
 - **Stack:** React.js, Node.js, MongoDB, Express
 
 ---
-## 🚀 Run Locally
+##  Run Locally
 
 No installation needed! Just:
 
