@@ -84,7 +84,7 @@ No installation needed! Just:
 
 ---
 
-## 📬 Contact
+##  Contact
 
 - 📧 Email: jenny@example.com
 - 💼 LinkedIn: [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
